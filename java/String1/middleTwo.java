@@ -1,4 +1,7 @@
-/*Given a string of even length, return a string made of the middle two chars,
+//link to the question: https://codingbat.com/prob/p137729
+
+/*QUESTION:
+Given a string of even length, return a string made of the middle two chars,
 so the string "string" yields "ri". The string length will be at least 2.*/
 
 /* CASES:
