@@ -1,4 +1,5 @@
 //link to que: https://codingbat.com/prob/p144623
+******************************************************************************************************************************************************
 
 /*QUESTION:
 Given a string and an index, return a string length 2 starting at the given index.
