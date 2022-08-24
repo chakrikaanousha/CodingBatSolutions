@@ -7,4 +7,13 @@ We sleep in if it is not a weekday or we're on vacation. Return true if we sleep
 CASES:
 sleepIn(false, false) → true
 sleepIn(true, false) → false
-sleepIn(false, true) → true*/
+sleepIn(false, true) → true */
+
+public boolean sleepIn(boolean weekday, boolean vacation) {
+  if(weekday==false || vacation==true ){ //either not a weekday or a vacation 
+            return (true);
+        }
+        else {
+            return (false);
+        }
+}
